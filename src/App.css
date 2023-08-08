@@ -1,0 +1,25 @@
+.navbar{
+  background: aqua;
+  height: 70px;
+  border-bottom: 2px solid rgb(220, 53, 41);
+}
+.sub-main{
+  height: 200px;
+  background: antiquewhite;
+  display: grid;
+  align-items: center;
+  padding-left: 20px;
+}
+.sub-main p{
+  color: black;
+}
+.card{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.footer{
+  height: 100px;
+  background-color:greenyellow ;
+}
+
+
